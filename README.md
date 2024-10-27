@@ -30,7 +30,7 @@ Here’s a list of Linux distributions that offer alternatives to systemd and pr
 For a more minimalist, efficient browsing experience, consider using these alternatives:
 
 - **[Abaco](http://lab-fgb.com/abaco/)**: A graphical web browser for Plan 9, supporting most of HTML 4.01.
-- **[Dillo](https://www.dillo.org/)**: A blazingly fast graphical browser with basic CSS support.
+- **[Dillo](https://dillo-browser.github.io/)**: A blazingly fast graphical browser with basic CSS support.
 - **[ELinks](http://elinks.or.cz/)**: A feature-rich fork of Links, without a graphical mode.
 - **[netsurf](http://www.netsurf-browser.org/)**: A fast graphical browser with a custom engine and near-perfect CSS support.
 - **[surf](https://surf.suckless.org/)**: A WebKit2-based browser that can be embedded into other applications.
